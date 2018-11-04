@@ -27,6 +27,7 @@
         <ff4j.version>1.7.3</ff4j.version>
         <spring-boot.version>2.1.0.RELEASE</spring-boot.version>
         <maven.compiler.version>3.8.0</maven.compiler.version>
+        <start-class>org.ff4j.sample.Application</start-class>
     </properties>
     <dependencies>
         <dependency>
